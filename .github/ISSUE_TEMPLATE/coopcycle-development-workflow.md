@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+## Context
+[Why are we doing this]
+
+## Business Impact
+[In what way this topic impacts the business of the cooperatives; what impact we hope to have]
+
 ## Discovery
 #### Identify existing critical errors
 
