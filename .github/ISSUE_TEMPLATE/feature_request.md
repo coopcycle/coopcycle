@@ -1,20 +1,23 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: A summary of what you want to be added or changed
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**In order to**  `achieve something`
+A clear description of a goal you want to archive
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**As a** `role`
+Who would benefit from this change, e.g. a dispatcher, a courier, a restaurant ...
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**I want** `something to be added or changed`
+A clear and concise description of what is to be added or changed in the software
+
+**Whereas currently** `this happens`
+A clear and concise description of what happens now
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
