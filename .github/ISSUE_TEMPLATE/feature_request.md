@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **In order to**  `achieve something`
-A clear description of a goal you want to archive
+A clear description of a goal you want to achieve
 
 **I want** `something to be added or changed`
 A clear and concise description of what is to be added or changed in the software
